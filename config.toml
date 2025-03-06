@@ -1,0 +1,6 @@
+# .streamlit/config.toml
+[server]
+maxUploadSize = 200
+mkdir .streamlit
+touch .streamlit/config.toml
+nano .streamlit/config.toml
